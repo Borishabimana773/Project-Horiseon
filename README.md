@@ -11,4 +11,4 @@ Pair programming with my amazing UCF Bootcamp partner Brooke Paglia- She provide
 [https://borishabimana773.github.io/Project-Horiseon/](https://borishabimana773.github.io/Project-Horiseon/)
 
 # screenshot 
-![websitescreenshot](Web capture_26-12-2021_175352_.JPEG)
+![websitescreenshot](Horiseon.jpeg)
